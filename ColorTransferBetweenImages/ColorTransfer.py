@@ -18,8 +18,8 @@ def main():
     target=cv2.imread(args['target'])
     '''
 
-    source = cv2.imread('2.jpg', cv2.IMREAD_COLOR)
-    target = cv2.imread('5.jpg', cv2.IMREAD_COLOR)
+    source = cv2.imread('5.jpg', cv2.IMREAD_COLOR)
+    target = cv2.imread('3.jpg', cv2.IMREAD_COLOR)
 
 
 
