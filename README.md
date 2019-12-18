@@ -17,7 +17,8 @@ Algo Credit to the Paper https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTrans
 
 the full sized pictures are in the project folder.
 
-##ColorDetection
+## ColorDetection
 
-Taking a picture and thresholding the colors Red, Blue, Green, Yellow (pasted the images together)
-![image](https://i.imgur.com/Jrv2ZxI.png)
+Taking a picture and thresholding the colors Red, Blue, Green, Yellow (pasted the images together to save some space).
+![image](https://i.imgur.com/mJgnyeL.png)
+
