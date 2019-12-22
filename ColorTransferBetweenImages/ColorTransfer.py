@@ -18,12 +18,12 @@ def main():
     target=cv2.imread(args['target'])
     '''
 
-    source = cv2.imread('5.jpg', cv2.IMREAD_COLOR)
-    target = cv2.imread('3.jpg', cv2.IMREAD_COLOR)
+    source = cv2.imread('1.jpg', cv2.IMREAD_COLOR)
+    target = cv2.imread('8.jpg', cv2.IMREAD_COLOR)
 
 
 
-    target = cv2.resize(target, (800, 800))
+    #target = cv2.resize(target, (1000, 800))
     source = cv2.cvtColor(source, cv2.COLOR_BGR2LAB).astype('float32')
     target = cv2.cvtColor(target, cv2.COLOR_BGR2LAB).astype('float32')
     l_s, a_s, b_s = cv2.split(source)
