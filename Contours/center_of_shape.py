@@ -37,5 +37,8 @@ def center_of_shape():
         cv2.imshow("Image", image)
         cv2.waitKey(0)
 
+def find_shapes():
+    pass
+
 if __name__ == '__main__':
     main()
