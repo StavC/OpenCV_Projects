@@ -23,10 +23,18 @@ Taking a picture and thresholding the colors Red, Blue, Green, Yellow (pasted th
 ![image](https://i.imgur.com/mJgnyeL.png)
 
 
-## ColorAndShapeDetector:
+## ColorAndShapeDetector
 
 https://github.com/StavC/ColorAndShapeDetector
 
-Detecting the color and the shape of objects
+Detecting the color and the shape of objects.
 
 ![image](https://i.imgur.com/DjWvx1B.png)
+
+## DocumentScanner
+
+https://github.com/StavC/DocumentScanner
+
+A simple document scanner.
+![image](https://i.imgur.com/Oue0nAw.png)
+![image](https://i.imgur.com/zOR5lBQ.png)
