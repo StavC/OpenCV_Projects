@@ -22,3 +22,11 @@ the full sized pictures are in the project folder.
 Taking a picture and thresholding the colors Red, Blue, Green, Yellow (pasted the images together to save some space).
 ![image](https://i.imgur.com/mJgnyeL.png)
 
+
+## ColorAndShapeDetector:
+
+https://github.com/StavC/ColorAndShapeDetector
+
+Detecting the color and the shape of objects
+
+![image](https://i.imgur.com/DjWvx1B.png)
